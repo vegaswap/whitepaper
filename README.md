@@ -161,3 +161,5 @@ Advisory (5.00%) - advisors to guide the project
 [6| https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4
 
 [7] https://bitcointalk.org/index.php?topic=292769
+
+[8] Xu, J., Vavryk, N., Paruch, K., & Cousaert, S. (2021). [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://arxiv.org/abs/2103.12732). arXiv e-prints, arXiv-2103. [GitHub](https://github.com/xujiahuayz/bondingcurves/)
